@@ -178,8 +178,3 @@ SOFTWARE.</pre>
 </div>
 
 ---
-
-<p align="center" style="color: #E6F3FF; font-family: 'Inter', sans-serif; margin-top: 20px;">
-  🌟 <strong>Yilzi Portfolio</strong> - Showcasing My Web Development Journey 🚀 <br>
-  <a href="https://github.com/YilziiHCT/website-portofolio1" style="background: linear-gradient(90deg, #1E90FF, #4682B4); color: #FFFFFF; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; box-shadow: 0 5px 20px rgba(30, 144, 255, 0.4); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">View on GitHub</a>
-</p>
